@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://github.com/czr-gif.github.io/tags/academic/</link>
-      <atom:link href="https://github.com/czr-gif.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://czr-gif.github.io/tags/academic/</link>
+      <atom:link href="https://czr-gif.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/czr-gif.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://czr-gif.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Academic</title>
-      <link>https://github.com/czr-gif.github.io/tags/academic/</link>
+      <link>https://czr-gif.github.io/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://github.com/czr-gif.github.io/post/get-started/</link>
+      <link>https://czr-gif.github.io/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/czr-gif.github.io/post/get-started/</guid>
+      <guid>https://czr-gif.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
