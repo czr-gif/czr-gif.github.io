@@ -1,0 +1,232 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{Chen_2026_icra}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e2428bc7dc98be069d53e0f9480f6bd}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Shiliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb3e9bfd1f6d0e6f8bc726fb3417a28c}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Shiyu},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \strng{namehash}{a066e281ec70799307753c391d662561}
+      \strng{fullhash}{a066e281ec70799307753c391d662561}
+      \strng{bibnamehash}{a066e281ec70799307753c391d662561}
+      \strng{authorbibnamehash}{a066e281ec70799307753c391d662561}
+      \strng{authornamehash}{a066e281ec70799307753c391d662561}
+      \strng{authorfullhash}{a066e281ec70799307753c391d662561}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2026 IEEE International Conference on Robotics and Automation (ICRA)}
+      \field{month}{2}
+      \field{note}{Accepted}
+      \field{title}{Guiding Vector Field Generation via Score-based Diffusion Model}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{Feng_2026_icme}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c19e5afc4660b7c050dcf7d9d6f1631}{%
+           family={Yue\bibnamedelima Feng},
+           familyi={Y\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{fullhash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{bibnamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{authorbibnamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{authornamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{authorfullhash}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2026 IEEE International Conference on Multimedia and Expo (ICME)}
+      \field{note}{Accepted}
+      \field{title}{Completing the Response Space: Unifying Rejection and Multi-Interval Video Grounding via Cardinality-Rectified GRPO}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{Chen_2025_automatica}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3931c4f9dc7f398b7609f1a5f5ec7768}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Zongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{fullhash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{bibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authorbibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authornamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authorfullhash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{month}{1}
+      \field{title}{Non-singular cooperative guiding vector field under a homotopy equivalence transformation}
+      \field{volume}{171}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{111962}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.automatica.2024.111962
+      \endverb
+    \endentry
+    \entry{Chen_2025_tmech}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3931c4f9dc7f398b7609f1a5f5ec7768}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Zongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d33b99ab2b9fa2c7987e1d7f5873222}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24bece773e8873ff8f03d9a3eced56df}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bd6f6e01c7d31340ba0a055a014e4d1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunhui},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5a497496be1aa82ccc53cfe8d071a07}
+      \strng{fullhash}{f2544705ae422cc3ff724741606a4542}
+      \strng{bibnamehash}{f2544705ae422cc3ff724741606a4542}
+      \strng{authorbibnamehash}{f2544705ae422cc3ff724741606a4542}
+      \strng{authornamehash}{a5a497496be1aa82ccc53cfe8d071a07}
+      \strng{authorfullhash}{f2544705ae422cc3ff724741606a4542}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
+      \field{month}{1}
+      \field{title}{Discrete Data-Based Frequency-Domain Closed Planar Path Following Method}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/tmech.2025.3566540
+      \endverb
+    \endentry
+    \entry{Chen_2024_jas}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a9f35f1353aa4a28022b930099c4c4d}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Jingchuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3931c4f9dc7f398b7609f1a5f5ec7768}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Zongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51d8a1c2276c17d035e903e45785f010}
+      \strng{fullhash}{51d8a1c2276c17d035e903e45785f010}
+      \strng{bibnamehash}{51d8a1c2276c17d035e903e45785f010}
+      \strng{authorbibnamehash}{51d8a1c2276c17d035e903e45785f010}
+      \strng{authornamehash}{51d8a1c2276c17d035e903e45785f010}
+      \strng{authorfullhash}{51d8a1c2276c17d035e903e45785f010}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE/CAA Journal of Automatica Sinica}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{A Novel Prescribed-Performance Path-Following Problem for Non-Holonomic Vehicles}
+      \field{volume}{11}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{1476\bibrangedash 1484}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/jas.2024.124311
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

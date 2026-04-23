@@ -3,8 +3,22 @@ title = "教学"
 description = "我曾参与授课或助教的课程。"
 
 [[items]]
-title = "示例课程"
+title = "强化学习的数学基础"
 subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+date = "2025"
+content = "课程主页：https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning。本课程由我的博士导师赵世阳教授主讲。"
+tags = ["博士生课程", "计算机科学"]
+
+[[items]]
+title = "自动控制原理"
+subtitle = "助教"
+date = "2022 & 2023"
+content = "北京航空航天大学自动化学院必修课，国家级精品课程，主要讲授状态空间方程与李雅普诺夫稳定性分析。"
+tags = ["本科生", "自动化"]
+
+[[items]]
+title = "理论力学"
+subtitle = "助教"
+date = "2021"
+content = "北京航空航天大学自动化学院必修课，国家级精品课程，主要讲授静力学、动力学与分析力学，包括拉格朗日方程与哈密顿方程，涉及刚体力学及少量二阶振动动力学内容。"
+tags = ["本科生", "力学"]

@@ -42,3 +42,12 @@ next-env.d.ts
 
 # wrangler
 .wrangler
+
+# LaTeX build artifacts
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.toc
+cv/*.fls
+cv/*.fdb_latexmk
+cv/*.synctex.gz

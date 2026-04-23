@@ -1,5 +1,7 @@
-I am a Ph.D Candidate at WINDY Lab, School of Engineering, Westlake University, advised by [Prof. Shiyu Zhao](https://www.shiyuzhao.net/). 
+I am a PhD candidate in Computer Science and Technology at WINDY Lab, School of Engineering, Westlake University (jointly program with Zhejiang University), advised by [Prof. Shiyu Zhao](https://www.shiyuzhao.net/). 
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I received a BSc in Automation and an MSc in Control Theory and Engineering, both from Beihang University.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests span Robot Learning, Generative Models, and Guidance Vector Fields.
+
+I was awarded the CAA Outstanding Master's Thesis Award in 2025.

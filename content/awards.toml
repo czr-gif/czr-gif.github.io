@@ -3,25 +3,13 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "CAA Outstanding Master's Thesis Award"
+subtitle = "Chinese Association of Automation"
 date = "2025"
-content = "Description of the award."
+content = "Awarded by the Chinese Association of Automation, Beijing, China."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Best Teaching Assistant Award"
+subtitle = "Beihang College, Beihang University"
+date = "2021"
+content = "Awarded for outstanding performance as a teaching assistant."

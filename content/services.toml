@@ -4,6 +4,18 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+subtitle = "Automatica"
+date = "2024 – Present"
+content = "Peer reviewer for Automatica (Elsevier)."
+
+[[items]]
+title = "Reviewer"
+subtitle = "IEEE Transactions on Industrial Informatics"
+date = "2024 – Present"
+content = "Peer reviewer for IEEE Transactions on Industrial Informatics (TII)."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Journal of the Astronautical Sciences"
+date = "2024 – Present"
+content = "Peer reviewer for Journal of the Astronautical Sciences (JAS)."
