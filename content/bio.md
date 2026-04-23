@@ -1,4 +1,4 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Ph.D Candidate at WINDY Lab, School of Engineering, Westlake University, advised by [Prof. Shiyu Zhao](https://www.shiyuzhao.net/). 
 
 Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
 
