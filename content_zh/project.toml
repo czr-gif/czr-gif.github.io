@@ -1,0 +1,14 @@
+type = "card"
+layout = "sectioned"
+title = "项目"
+description = "我参与的部分项目。"
+
+[[columns]]
+title = "科研项目"
+
+[[columns.items]]
+title = "脑机混合智能赋能行为增强"
+subtitle = "智能机器人国家重点研发项目"
+date = "2023–2026"
+content = "围绕智能机器人中的脑机交互与混合智能开展研究，关注行为增强与自主系统相关问题。"
+tags = ["脑机接口", "混合智能", "机器人"]

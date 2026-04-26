@@ -24,22 +24,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "项目"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "project"
+href = "/project"
+
+[[navigation]]
+title = "学术活动"
+type = "page"
+target = "teachingservices"
+href = "/teachingservices"
 
 [[navigation]]
 title = "奖项"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "简历"

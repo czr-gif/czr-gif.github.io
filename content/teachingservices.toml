@@ -1,0 +1,61 @@
+type = "card"
+layout = "sectioned"
+title = "Academic Activities"
+description = "Teaching, talks, workshops, outreach, and academic service."
+
+[[columns]]
+title = "Academic"
+
+[[columns.items]]
+title = "Exploring Vector Field Construction Methods for Different Types of Paths"
+subtitle = "IROS 2025 Workshop Speech"
+date = "October 24, 2025"
+content = "This talk introduced path-tracking methods through Lie group generators and data-driven approaches, with a focus on guiding vector field design under homotopy transformations for unordered paths."
+tags = ["IROS 2025 Workshop", "Speech", "Guiding Vector Field"]
+images = ["/IROS2025/18877425.jpg", "/IROS2025/18886656.jpg", "/IROS2025/l.jpeg", "/IROS2025/18941684.jpg"]
+
+[[columns.items]]
+title = "Reviewer"
+subtitle = "Automatica, TAC, TII, JAS et al."
+date = "2024 – Present"
+content = "Peer reviewer for journals including Automatica, IEEE Transactions on Automatic Control, IEEE Transactions on Industrial Informatics, and Journal of the Astronautical Sciences."
+tags = ["Academic Service"]
+
+[[columns]]
+title = "Teaching"
+
+[[columns.items]]
+title = "Inspirations from Geocentrism"
+subtitle = "Science Communicator, Westlake University Science Outreach Team"
+date = "2025 – Present"
+content = '''Starting with the geocentric model based on epicycle theory, this course introduces the principles of Fourier transform and its applications in music and Wi-Fi technology. It highlights a broader scientific lesson: what matters is not simply being "right" or "wrong" at a given moment, but the insight gained through the process of thinking.'''
+tags = ["Science Outreach", "Fourier Transform", "Geocentrism", "WiFi"]
+images = ["/ScienceCommunicator/IMG_20250516_002348_edit_89236641948874.jpg", "/ScienceCommunicator/mmexport1746612843928.jpg"]
+
+[[columns.items]]
+title = "Mathmatical Foundation of Reinforcement Learning"
+subtitle = "Teaching Assistant (Lecturer: Prof Shiyu Zhao)"
+date = "2025"
+content = "Course page: https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning. This course is taught by Prof. Shiyu Zhao."
+tags = ["PhD Courses", "Computer Science"]
+
+[[columns.items]]
+title = "Principles of Automatic Control"
+subtitle = "Teaching Assistant (Lecturer: Prof. Zongyu Zuo)"
+date = "2022 & 2023"
+content = "A required course at the School of Automation, Beihang University, covering state-space equations and Lyapunov stability analysis."
+tags = ["Undergraduate", "Automation"]
+
+[[columns.items]]
+title = "Theoretical Mechanics"
+subtitle = "Teaching Assistant (Lecturer: Prof Wei Huo, Zewei Zheng, Zongyu Zuo)"
+date = "2021"
+content = "A required course at the School of Automation, Beihang University, covering statics, dynamics, and analytical mechanics, including the Lagrange and Hamilton equations."
+tags = ["Undergraduate", "Mechanics"]
+
+[[columns.items]]
+title = "College English: Critical Thinking and Academic Writing"
+subtitle = "Teaching Assistant (Lecturer: Prof Xiaoying Gao)"
+date = "2020"
+content = "A required course at Beihang University."
+tags = ["Undergraduate", "English"]

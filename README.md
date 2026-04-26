@@ -139,3 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 更新cv：
 npm run cv
+
+启动路由：
+npm run dev

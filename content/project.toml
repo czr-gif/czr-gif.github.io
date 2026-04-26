@@ -1,0 +1,14 @@
+type = "card"
+layout = "sectioned"
+title = "Projects"
+description = "Selected projects I work on."
+
+[[columns]]
+title = "Research Projects"
+
+[[columns.items]]
+title = "Behavioral Augmentation via Brain-Computer Hybrid Intelligence"
+subtitle = "National Major R&D Project on Intelligent Robotics"
+date = "2023–2026"
+content = "Research on hybrid intelligence for behavioral augmentation in intelligent robotics, with a focus on brain-computer interaction and autonomous systems."
+tags = ["BCI", "Hybrid Intelligence", "Robotics"]

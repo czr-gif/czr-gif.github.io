@@ -1,0 +1,62 @@
+type = "card"
+layout = "sectioned"
+title = "学术活动"
+description = "包括学术报告、Workshop 交流、科普传播、教学与学术服务。"
+
+
+[[columns]]
+title = "学术"
+
+[[columns.items]]
+title = "不同类型路径的向量场构造方法探索"
+subtitle = "IROS 2025 Workshop 报告"
+date = "2025年10月24日"
+content = "报告围绕基于李群生成元与数据驱动方法的路径跟踪展开，重点介绍了在同伦变换下为无序路径设计 Guiding Vector Field 的思路。"
+tags = ["IROS 2025 Workshop", "学术报告", "Guiding Vector Field"]
+images = ["/IROS2025/18877425.jpg", "/IROS2025/18886656.jpg", "/IROS2025/l.jpeg", "/IROS2025/18941684.jpg"]
+
+[[columns.items]]
+title = "审稿人"
+subtitle = "Automatica, TAC, TII, JAS 等"
+date = "2024 – 至今"
+content = "担任 Automatica、IEEE Transactions on Automatic Control、IEEE Transactions on Industrial Informatics、Journal of the Astronautical Sciences 等期刊同行评审人。"
+tags = ["学术服务"]
+
+[[columns]]
+title = "教学"
+
+[[columns.items]]
+title = "从地心说到傅里叶变换的启发"
+subtitle = "西湖大学科普宣讲团讲师"
+date = "2025 – 至今"
+content = "课程从本轮均轮支撑的地心说出发，引入傅里叶变换的基本思想，并展示其在音乐与 Wi-Fi 技术中的应用，也借此讨论科学认识中“对”与“错”之外更重要的思维过程与洞见。"
+tags = ["科普传播", "傅里叶变换", "地心说", "WiFi"]
+images = ["/ScienceCommunicator/IMG_20250516_002348_edit_89236641948874.jpg", "/ScienceCommunicator/mmexport1746612843928.jpg"]
+
+[[columns.items]]
+title = "强化学习的数学基础"
+subtitle = "助教（授课教师：赵世钰教授）"
+date = "2025"
+content = "课程主页：https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning。本课程由我的博士导师赵世钰教授主讲。"
+tags = ["博士生课程", "计算机科学"]
+
+[[columns.items]]
+title = "自动控制原理"
+subtitle = "助教（授课教师：左宗玉教授）"
+date = "2022 & 2023"
+content = "北京航空航天大学自动化学院必修课，国家级精品课程，主要讲授状态空间方程与李雅普诺夫稳定性分析。"
+tags = ["本科生", "自动化"]
+
+[[columns.items]]
+title = "理论力学"
+subtitle = "助教（授课教师：霍伟教授、郑泽伟教授、左宗玉教授）"
+date = "2021"
+content = "北京航空航天大学自动化学院必修课，国家级精品课程，主要讲授静力学、动力学与分析力学，包括拉格朗日方程与哈密顿方程，涉及刚体力学及少量二阶振动动力学内容。"
+tags = ["本科生", "力学"]
+
+[[columns.items]]
+title = "大学英语：批判性思维与学术写作"
+subtitle = "助教（授课教师：高晓鹰教授）"
+date = "2020"
+content = "北京航空航天大学本科生公共必修课。"
+tags = ["本科生", "英语"]

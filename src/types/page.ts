@@ -23,9 +23,18 @@ export interface CardItem {
     tags?: string[];
     link?: string;
     image?: string;
+    images?: string[];
+}
+
+export interface CardColumn {
+    title: string;
+    description?: string;
+    items: CardItem[];
 }
 
 export interface CardPageConfig extends BasePageConfig {
     type: 'card';
-    items: CardItem[];
+    layout?: 'list' | 'two-column' | 'sectioned';
+    items?: CardItem[];
+    columns?: CardColumn[];
 }
