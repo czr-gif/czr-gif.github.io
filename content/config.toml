@@ -62,7 +62,7 @@ target = "project"
 href = "/project"
 
 [[navigation]]
-title = "Teaching & Services"
+title = "Academic Activities"
 type = "page"
 target = "teachingservices"
 href = "/teachingservices"
