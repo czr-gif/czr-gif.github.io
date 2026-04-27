@@ -85,7 +85,7 @@ enable_likes = true # 是否开启点赞功能
 ### 3. 论文列表 (`content/publications.bib`)
 
 直接从 Google Scholar、Zotero 或 Mendeley 导出你的论文列表到 `content/publications.bib`。PRISM 会自动解析并生成精美的论文页面。
-*   **小贴士**：你可以在 bib 文件中通过添加 `selected`, `preview` 和 `description` 字段来自定义论文的展示效果（例如是否在首页置顶、添加封面图等）。
+*   **小贴士**：你可以在 bib 文件中通过添加 `selected`, `preview`, `description` 和 `homepage_order` 字段来自定义论文的展示效果。`homepage_order` 只影响首页论文区的顺序，数字越小越靠前；没有填写时则继续按时间倒序排列。
 
 ### 4. 添加新页面
 

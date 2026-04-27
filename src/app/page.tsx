@@ -23,6 +23,52 @@ interface NewsItem {
   content: string;
 }
 
+function getPublicationMonthValue(publication: Publication): number {
+  if (!publication.month) return 1;
+
+  const numericMonth = Number.parseInt(publication.month, 10);
+  if (!Number.isNaN(numericMonth)) return numericMonth;
+
+  const monthMap: Record<string, number> = {
+    jan: 1, january: 1,
+    feb: 2, february: 2,
+    mar: 3, march: 3,
+    apr: 4, april: 4,
+    may: 5,
+    jun: 6, june: 6,
+    jul: 7, july: 7,
+    aug: 8, august: 8,
+    sep: 9, september: 9, sept: 9,
+    oct: 10, october: 10,
+    nov: 11, november: 11,
+    dec: 12, december: 12,
+  };
+
+  return monthMap[publication.month.toLowerCase()] || 1;
+}
+
+function comparePublicationsByDate(a: Publication, b: Publication): number {
+  if (b.year !== a.year) return b.year - a.year;
+  return getPublicationMonthValue(b) - getPublicationMonthValue(a);
+}
+
+function sortHomepagePublications(publications: Publication[]): Publication[] {
+  return [...publications].sort((a, b) => {
+    const aHasOrder = a.homepageOrder !== undefined;
+    const bHasOrder = b.homepageOrder !== undefined;
+
+    if (aHasOrder && bHasOrder && a.homepageOrder !== b.homepageOrder) {
+      return (a.homepageOrder as number) - (b.homepageOrder as number);
+    }
+
+    if (aHasOrder !== bHasOrder) {
+      return aHasOrder ? -1 : 1;
+    }
+
+    return comparePublicationsByDate(a, b);
+  });
+}
+
 type PageData =
   | { type: 'about'; id: string; sections: SectionConfig[] }
   | { type: 'publication'; id: string; config: PublicationPageConfig; publications: Publication[] }
@@ -43,9 +89,10 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         const filteredPubs = section.filter === 'selected'
           ? allPubs.filter((p) => p.selected)
           : allPubs;
+        const sortedPubs = sortHomepagePublications(filteredPubs);
         return {
           ...section,
-          publications: filteredPubs.slice(0, section.limit || 5),
+          publications: sortedPubs.slice(0, section.limit || 5),
         };
       }
       case 'list': {

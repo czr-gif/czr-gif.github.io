@@ -79,7 +79,7 @@ enable_likes = true
 Customize the "About" section, "News", and "Selected Publications" on the homepage.
 
 ### 3. Publications (`content/publications.bib`)
-Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview` and `description` keys in the bib file. 
+Export your publications from Google Scholar, Zotero, or Mendeley to `content/publications.bib`. PRISM automatically parses this file to generate your Publications page. Customize the display of publications by changing `selected`, `preview`, `description`, and `homepage_order` keys in the bib file. `homepage_order` only affects the homepage publications section: lower numbers appear first, and entries without it fall back to reverse chronological order.
 
 ### 4. Adding New Pages
 To add a new page (e.g., "Projects"), create a TOML file in `content/` (e.g., `content/projects.toml`) and add it to the `navigation` list in `content/config.toml`.
