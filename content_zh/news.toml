@@ -3,6 +3,10 @@ date = "2026-05"
 content = "我们与中科院自动化所、清华大学合作的新论文被 National Science Review (NSR) 接收！🎉"
 
 [[news]]
+date = "2026-05"
+content = "我们的 ICME 2026 论文《补全响应空间：通过基数修正 GRPO 统一拒绝与多区间视频定位》被选为最佳论文候选！🎉"
+
+[[news]]
 date = "2026-04"
 content = "荣获2025年中国自动化学会优秀硕士学位论文奖 🎉"
 
