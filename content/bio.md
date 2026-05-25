@@ -6,4 +6,4 @@ My research interests span Robot Learning, Generative Models, and Guidance Vecto
 
 My research vision is *to build a unified framework that bridges geometric priors, data-driven modeling, and robot control, enabling robots to learn motion representations from complex data that are interpretable, verifiable, and controllable.*
 
-I was awarded the CAA Outstanding Master's Thesis Award in 2025.
+I was awarded the CAA Outstanding Master's Thesis Award in 2025, ICME 2026 best paper candidate.
