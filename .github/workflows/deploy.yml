@@ -38,6 +38,19 @@ jobs:
       - name: Build site
         run: npm run build
 
+      - name: Prepare Pages artifact
+        run: |
+          find out -name ".DS_Store" -delete
+          touch out/.nojekyll
+          test -f out/index.html
+          if find out -type l | grep -q .; then
+            echo "GitHub Pages artifacts cannot contain symbolic links."
+            find out -type l -print
+            exit 1
+          fi
+          du -sh out
+          find out -type f | wc -l
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
