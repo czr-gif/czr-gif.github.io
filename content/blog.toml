@@ -1,0 +1,10 @@
+title = "Blog"
+description = "Notes, questions, and fragments from research and everyday thinking."
+
+[[posts]]
+slug = "first-note"
+title = "First note"
+date = "2026-07-03"
+summary = "A small beginning for collecting thoughts that are still taking shape."
+tags = ["notes", "thinking"]
+source = "blog/first-note.md"

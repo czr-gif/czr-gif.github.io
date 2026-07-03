@@ -74,6 +74,12 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
+title = "Blog"
+type = "link"
+target = "blog"
+href = "/blog"
+
+[[navigation]]
 title = "CV"
 type = "page"
 target = "cv"

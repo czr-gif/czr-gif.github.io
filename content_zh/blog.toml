@@ -1,0 +1,18 @@
+title = "博客"
+description = "记录一些想法、问题，以及研究和生活里慢慢成形的思考。"
+
+[[posts]]
+slug = "discriminant-math-learning-reflection"
+title = "从判别式开始：对数学学习的反思"
+date = "2026-07-03"
+summary = "从高中解析几何里的两根之差出发，重新理解判别式、对称性与数学教育中被遮住的结构感。"
+tags = ["数学", "教育", "代数"]
+source = "blog/从判别式开始：对数学学习的反思.md"
+
+[[posts]]
+slug = "first-note"
+title = "第一篇随笔"
+date = "2026-07-03"
+summary = "给这个博客空间留下一段小小的开场。"
+tags = ["随笔", "思考"]
+source = "blog/first-note.md"
