@@ -10,6 +10,14 @@ tags = ["数学", "教育", "代数"]
 source = "blog/从判别式开始：对数学学习的反思.md"
 
 [[posts]]
+slug = "on-toxic-texts"
+title = "论真正的“毒课文”：当修辞替代了逻辑"
+date = "2026-07-03"
+summary = "比事实错误更隐蔽的，是语文教育中把修辞当作论证、把情绪当作真理的阅读方式。"
+tags = ["教育", "语文", "逻辑"]
+source = "blog/论毒课文.md"
+
+[[posts]]
 slug = "first-note"
 title = "第一篇随笔"
 date = "2026-07-03"
