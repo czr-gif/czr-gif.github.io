@@ -18,6 +18,14 @@ tags = ["教育", "语文", "逻辑"]
 source = "blog/论毒课文.md"
 
 [[posts]]
+slug = "comparative-literature-expedition-33-farewell"
+title = "比较文学的应用：《33号远征队》的码头送别，为什么没有立刻击中我"
+date = "2026-07-05"
+summary = "从《33号远征队》的码头送别出发，比较欧洲远洋叙事和中国古典送别意象如何承载不同的离别经验。"
+tags = ["游戏", "比较文学", "叙事"]
+source = "blog/比较文学的应用——33号远征队码头送别，中西方文学意向区别.md"
+
+[[posts]]
 slug = "first-note"
 title = "第一篇随笔"
 date = "2026-07-03"

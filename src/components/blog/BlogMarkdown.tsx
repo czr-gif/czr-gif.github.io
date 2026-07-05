@@ -42,6 +42,15 @@ export default function BlogMarkdown({ content }: BlogMarkdownProps) {
               className="text-accent font-medium transition-colors duration-200 hover:text-accent-dark"
             />
           ),
+          img: ({ ...props }) => (
+            // Markdown images come from authored content and may be remote, so keep the native element here.
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              {...props}
+              alt={props.alt ?? ''}
+              className="my-8 w-full rounded-lg border border-neutral-200 dark:border-neutral-700 shadow-sm"
+            />
+          ),
           blockquote: ({ children }) => (
             <blockquote className="border-l-4 border-accent/50 pl-4 italic my-6 text-neutral-600 dark:text-neutral-500">
               {children}
