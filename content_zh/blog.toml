@@ -26,6 +26,14 @@ tags = ["游戏", "比较文学", "叙事"]
 source = "blog/比较文学的应用——33号远征队码头送别，中西方文学意向区别.md"
 
 [[posts]]
+slug = "paper-reading-workflow"
+title = "关于论文阅读：从“读懂一篇”到“形成自己的立场”"
+date = "2026-07-06"
+summary = "把论文阅读从逐字苦读改造成一个研究决策流程：筛选、理解性精读、横向比较，最后形成自己的立场。"
+tags = ["科研", "论文阅读", "方法论"]
+source = "blog/关于论文阅读.md"
+
+[[posts]]
 slug = "first-note"
 title = "第一篇随笔"
 date = "2026-07-03"
