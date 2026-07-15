@@ -2,6 +2,14 @@ title = "博客"
 description = "记录一些想法、问题，以及研究和生活里慢慢成形的思考。"
 
 [[posts]]
+slug = "pursuit-of-higher-education-and-striving"
+title = "为什么追求高学历与奋斗：小镇做题家、知识快感与人生迭代"
+date = "2026-07-15"
+summary = "我不是因为热爱知识才选择学习，而是先被推上唯一的路，后来才在其中发现快乐。从中美建设阶段的“工程师教育”到 AI 科研，再借不动点、局部最优与探索—利用理解学历、奋斗和自我接纳。"
+tags = ["教育", "社会规训", "文化比较", "科研"]
+source = "blog/为什么我们追求高学历与奋斗.md"
+
+[[posts]]
 slug = "discriminant-math-learning-reflection"
 title = "从判别式开始：对数学学习的反思"
 date = "2026-07-03"
