@@ -1,11 +1,28 @@
 type = "card"
 layout = "sectioned"
+compact = true
 title = "学术活动"
 description = "包括学术报告、Workshop 交流、科普传播、教学与学术服务。"
 
 
 [[columns]]
 title = "学术"
+
+[[columns.items]]
+title = "ICME 2026 最佳论文奖"
+subtitle = "《补全响应空间：通过基数修正 GRPO 统一拒绝与多区间视频定位》"
+date = "2026年7月5日–9日"
+content = "在泰国曼谷举行的 IEEE ICME 2026 上作论文报告。该工作从基数泛化视角统一视频时序定位中的无关查询拒识与多区间检索问题，并提出 CaR-GRPO；论文获大会最佳论文奖。"
+tags = ["ICME 2026", "最佳论文奖", "学术报告", "视频时序定位"]
+images = ["/ICME2026/338A8964.JPG", "/ICME2026/2G2A5374.JPG", "/ICME2026/bpa.jpg", "/ICME2026/2G2A5383.JPG"]
+
+[[columns.items]]
+title = "ICRA 2026 海报展示"
+subtitle = "《基于分数扩散模型的制导向量场生成》"
+date = "2026年6月1日-5日"
+content = "在奥地利维也纳举行的 IEEE ICRA 2026 上以海报形式展示该工作。论文提出 Score-Induced Guiding Vector Field（SGVF），利用基于分数的扩散模型直接从数据分布构造制导向量场，以处理无序、多分支和复杂拓扑路径。"
+tags = ["ICRA 2026", "海报展示", "制导向量场", "扩散模型"]
+images = ["/ICRA2026/poster.jpg"]
 
 [[columns.items]]
 title = "不同类型路径的向量场构造方法探索"

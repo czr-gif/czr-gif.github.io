@@ -3,10 +3,10 @@ title = "奖项"
 description = "我获得的荣誉与奖项。"
 
 [[items]]
-title = "ICME 2026 最佳论文候选"
+title = "ICME 2026 最佳论文奖"
 subtitle = "补全响应空间：通过基数修正 GRPO 统一拒绝与多区间视频定位"
 date = "2026"
-content = "被 IEEE ICME 2026 奖项委员会选为最佳论文候选。具体报告时间将于技术程序确定后公布。"
+content = "论文在泰国曼谷举行的 IEEE ICME 2026 上荣获最佳论文奖。"
 
 [[items]]
 title = "中国自动化学会优秀硕士学位论文奖"
@@ -19,4 +19,3 @@ title = "助航之星——最佳助教奖"
 subtitle = "北京航空航天大学北航学院"
 date = "2021"
 content = "因优秀的助教表现而获得表彰。"
-

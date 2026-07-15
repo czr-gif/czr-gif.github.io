@@ -1,10 +1,27 @@
 type = "card"
 layout = "sectioned"
+compact = true
 title = "Academic Activities"
 description = "Teaching, talks, workshops, outreach, and academic service."
 
 [[columns]]
 title = "Academic"
+
+[[columns.items]]
+title = "ICME 2026 Best Paper Award"
+subtitle = "Completing the Response Space: Unifying Rejection and Multi-Interval Video Grounding via Cardinality-Rectified GRPO"
+date = "July 5–9, 2026"
+content = "Presented the paper at IEEE ICME 2026 in Bangkok, Thailand. The work unifies irrelevant-query rejection and multi-interval temporal video grounding from the perspective of cardinality generalization and introduces CaR-GRPO; it received the conference's Best Paper Award."
+tags = ["ICME 2026", "Best Paper Award", "Oral Presentation", "Temporal Video Grounding"]
+images = ["/ICME2026/338A8964.JPG", "/ICME2026/2G2A5374.JPG", "/ICME2026/bpa.jpg", "/ICME2026/2G2A5383.JPG"]
+
+[[columns.items]]
+title = "ICRA 2026 Poster Presentation"
+subtitle = "Guiding Vector Field Generation via Score-based Diffusion Model"
+date = "June 1–5, 2026"
+content = "Presented this work as a poster at IEEE ICRA 2026 in Vienna, Austria. The paper introduces the Score-Induced Guiding Vector Field (SGVF), which uses a score-based diffusion model to construct guiding vector fields directly from data distributions for unordered, multi-branch, and topologically complex paths."
+tags = ["ICRA 2026", "Poster Presentation", "Guiding Vector Field", "Diffusion Model"]
+images = ["/ICRA2026/poster.jpg"]
 
 [[columns.items]]
 title = "Exploring Vector Field Construction Methods for Different Types of Paths"

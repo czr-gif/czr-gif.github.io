@@ -16,6 +16,8 @@
 
 ## Publications
 
+**Zirui Chen** et al. "Cyborg-swarm cooperation and game via affective-based brain–machine interface." *National Science Review*, vol. 13, no. 13, p. nwag313, 2026.
+
 **Zirui Chen**, Shiliang Guo, and Shiyu Zhao. "Guiding Vector Field Generation via Score-based Diffusion Model." *ICRA 2026*, Vienna, Austria. *(Accepted)*
 
 **Zirui Chen** and Zongyu Zuo. "Non-singular cooperative guiding vector field under a homotopy equivalence transformation." *Automatica*, vol. 171, p. 111962, 2025.
@@ -33,6 +35,7 @@ Feng Yue, Zhaoxing Zhang, Zhengyu Liang, Ningkang Zhang, Feifei Zhang, Shiwen Ca
 
 ## Awards & Honors
 
+- **ICME 2026 Best Paper Award** *(2026)*, Bangkok, Thailand
 - **CAA Outstanding Master's Thesis Award** *(2025)*, Beijing, China
 - **Best Teaching Assistant Award** *(2021)*, Beihang College, Beihang University
 

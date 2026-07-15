@@ -62,6 +62,14 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
 
     // Parse preview field (remove braces if present)
     const preview = tags.preview?.replace(/[{}]/g, '');
+    const pdf = (tags.pdf || tags.eprint)?.replace(/[{}]/g, '');
+    const pdfUrl = pdf
+      ? /^https?:\/\//i.test(pdf)
+        ? pdf
+        : pdf.startsWith('/')
+          ? pdf
+          : `/papers/${pdf}`
+      : undefined;
 
     // Create publication object
     const publication: Publication = {
@@ -85,6 +93,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       doi: tags.doi,
       url: tags.url,
       code: tags.code,
+      pdfUrl,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       selected,
@@ -92,7 +101,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'homepage_order']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'pdf', 'description', 'keywords', 'code', 'homepage_order']),
     };
 
     // Clean up undefined fields

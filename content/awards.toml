@@ -3,10 +3,10 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "ICME 2026 Best Paper Candidate"
+title = "ICME 2026 Best Paper Award"
 subtitle = "Completing the Response Space: Unifying Rejection and Multi-Interval Video Grounding via Cardinality-Rectified GRPO"
 date = "2026"
-content = "Selected by the IEEE ICME 2026 Awards Committee as a Best Paper Candidate. Presentation details will be announced later."
+content = "The paper received the Best Paper Award at IEEE ICME 2026 in Bangkok, Thailand."
 
 [[items]]
 title = "CAA Outstanding Master's Thesis Award"
@@ -19,5 +19,4 @@ title = "Best Teaching Assistant Award"
 subtitle = "Beihang College, Beihang University"
 date = "2021"
 content = "Awarded for outstanding performance as a teaching assistant."
-
 

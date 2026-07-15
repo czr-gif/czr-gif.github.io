@@ -35,6 +35,7 @@ export interface CardColumn {
 export interface CardPageConfig extends BasePageConfig {
     type: 'card';
     layout?: 'list' | 'two-column' | 'sectioned';
+    compact?: boolean;
     items?: CardItem[];
     columns?: CardColumn[];
 }
