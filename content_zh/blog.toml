@@ -34,6 +34,14 @@ tags = ["科研", "论文阅读", "方法论"]
 source = "blog/关于论文阅读.md"
 
 [[posts]]
+slug = "grand-view-garden-girlhood-worship"
+title = "论大观园的少女崇拜：从蒋方舟学位被撤销说起"
+date = "2026-07-15"
+summary = "从蒋方舟硕士学位被撤销谈起，批判中国文化里把女性固定在“宝珠”“才女”“公主”状态中的少女崇拜。"
+tags = ["文化批评", "性别", "红楼梦"]
+source = "blog/论大观园的少女崇拜"
+
+[[posts]]
 slug = "first-note"
 title = "第一篇随笔"
 date = "2026-07-03"
