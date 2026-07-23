@@ -18,7 +18,80 @@
 
 
 \refsection{0}
-  \datalist[entry]{ydnt/global//global/global/global}
+  \datalist[entry]{ymdnt/global//global/global/global}
+    \entry{Feng_2026_icme}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=fec54a4116d2a7455f3450c04c9a51d3}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2eb06fccac51383387e28e662e55ee5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhaoxing},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7be1a2d97384cab97c708d197b05fc4f}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Zhengyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aad1b43ec9093bcc14e982e356d6b467}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ningkang},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17d4dbb1edd9c8e58b67e6dc7ea7c7d1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Feifei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=992fa9b26128cfab83769989fef717e6}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Shiwen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c02ecd4bb051df6efaf9b85b590b5f15}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shengtao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bangkok, Thailand}%
+      }
+      \strng{namehash}{19a38d400724f585104f272fce9e7ac4}
+      \strng{fullhash}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \strng{fullhashraw}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \strng{bibnamehash}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \strng{authorbibnamehash}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \strng{authornamehash}{19a38d400724f585104f272fce9e7ac4}
+      \strng{authorfullhash}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \strng{authorfullhashraw}{1dcc688eacd70ba0a8fbf2ed87f08bf9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2026 IEEE International Conference on Multimedia and Expo (ICME)}
+      \field{month}{7}
+      \field{note}{Best Paper Award; corresponding author}
+      \field{title}{Completing the Response Space: Unifying Rejection and Multi-Interval Video Grounding via Cardinality-Rectified GRPO}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
     \entry{Chen_2026_icra}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
@@ -57,82 +130,122 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2026 IEEE International Conference on Robotics and Automation (ICRA)}
-      \field{month}{2}
-      \field{note}{Accepted}
+      \field{month}{6}
       \field{title}{Guiding Vector Field Generation via Score-based Diffusion Model}
       \field{year}{2026}
       \true{nocite}
     \endentry
-    \entry{Feng_2026_icme}{inproceedings}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0c19e5afc4660b7c050dcf7d9d6f1631}{%
-           family={Yue\bibnamedelima Feng},
-           familyi={Y\bibinitperiod\bibinitdelim F\bibinitperiod},
-           given={et\bibnamedelima al.},
-           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
-           givenun=0}}%
+    \entry{Chen_2026_nsr}{article}{}{}
+      \name{author}{14}{}{%
         {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={Zirui},
            giveni={Z\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a1f1a0016bb4e33e52e9bd0f48cfd33}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=769cd46f2d6696cd3f186a310ea01bec}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guiyong},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9edf94bcc8af711379cf1ebd126b1d12}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hongru},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a73f9c8fed796c7c86d7b01fcce163c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhikun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8028134272121c51d8cb45cfbfadd9c8}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinhe},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e2428bc7dc98be069d53e0f9480f6bd}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Shiliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f79ca82b35904dbebe93d7921349ac59}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Tianming},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33f8a00cdbc00b412313f85de0a781c3}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Mingze},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a375c0aa591cd8365d91339148c732fc}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Wenfeng},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3910c517494dedb646694c334e8bafb1}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d0ca371033ee2f342e89bf1725daba6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Mingjun},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f35f9891b4e98adc8a91ee25d2e90c5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lianqing},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57c0fed99ad3b4fdc54d8ec9b7d980b4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wenxue},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{fullhash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{fullhashraw}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{bibnamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{authorbibnamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{authornamehash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{authorfullhash}{a13cc2e4b75b325eeded7dbf8a9610d0}
-      \strng{authorfullhashraw}{a13cc2e4b75b325eeded7dbf8a9610d0}
+      \strng{namehash}{a822c2d70cc6798576fab772c4e95ebc}
+      \strng{fullhash}{de69401e6a2dfcc5d7d99ef57d28be90}
+      \strng{fullhashraw}{de69401e6a2dfcc5d7d99ef57d28be90}
+      \strng{bibnamehash}{89fce443e5e5d11a354f5c4436bfbc0c}
+      \strng{authorbibnamehash}{89fce443e5e5d11a354f5c4436bfbc0c}
+      \strng{authornamehash}{a822c2d70cc6798576fab772c4e95ebc}
+      \strng{authorfullhash}{de69401e6a2dfcc5d7d99ef57d28be90}
+      \strng{authorfullhashraw}{de69401e6a2dfcc5d7d99ef57d28be90}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2026 IEEE International Conference on Multimedia and Expo (ICME)}
-      \field{note}{Accepted}
-      \field{title}{Completing the Response Space: Unifying Rejection and Multi-Interval Video Grounding via Cardinality-Rectified GRPO}
+      \field{journaltitle}{National Science Review}
+      \field{month}{5}
+      \field{number}{13}
+      \field{title}{Cyborg-swarm cooperation and game via affective-based brain--machine interface}
+      \field{volume}{13}
       \field{year}{2026}
       \true{nocite}
-    \endentry
-    \entry{Chen_2025_automatica}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Zirui},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3931c4f9dc7f398b7609f1a5f5ec7768}{%
-           family={Zuo},
-           familyi={Z\bibinitperiod},
-           given={Zongyu},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{fullhash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{fullhashraw}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{bibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{authorbibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{authornamehash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{authorfullhash}{5c170ccbc0375502cdaf1b871c18eefa}
-      \strng{authorfullhashraw}{5c170ccbc0375502cdaf1b871c18eefa}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Automatica}
-      \field{month}{1}
-      \field{title}{Non-singular cooperative guiding vector field under a homotopy equivalence transformation}
-      \field{volume}{171}
-      \field{year}{2025}
-      \true{nocite}
-      \field{pages}{111962}
-      \range{pages}{1}
+      \field{pages}{nwag313}
+      \range{pages}{-1}
       \verb{doi}
-      \verb 10.1016/j.automatica.2024.111962
+      \verb 10.1093/nsr/nwag313
       \endverb
     \endentry
     \entry{Chen_2025_tmech}{article}{}{}
@@ -176,20 +289,61 @@
       \strng{authornamehash}{a822c2d70cc6798576fab772c4e95ebc}
       \strng{authorfullhash}{f2544705ae422cc3ff724741606a4542}
       \strng{authorfullhashraw}{f2544705ae422cc3ff724741606a4542}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE/ASME Transactions on Mechatronics}
-      \field{month}{1}
+      \field{month}{12}
+      \field{number}{6}
       \field{title}{Discrete Data-Based Frequency-Domain Closed Planar Path Following Method}
+      \field{volume}{30}
       \field{year}{2025}
       \true{nocite}
-      \field{pages}{1\bibrangedash 12}
+      \field{pages}{5330\bibrangedash 5341}
       \range{pages}{12}
       \verb{doi}
       \verb 10.1109/tmech.2025.3566540
+      \endverb
+    \endentry
+    \entry{Chen_2025_automatica}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b63b6459d232001e1cab49c56ca2c61d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zirui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3931c4f9dc7f398b7609f1a5f5ec7768}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Zongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{fullhash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{fullhashraw}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{bibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authorbibnamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authornamehash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authorfullhash}{5c170ccbc0375502cdaf1b871c18eefa}
+      \strng{authorfullhashraw}{5c170ccbc0375502cdaf1b871c18eefa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{month}{1}
+      \field{title}{Non-singular cooperative guiding vector field under a homotopy equivalence transformation}
+      \field{volume}{171}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{111962}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.automatica.2024.111962
       \endverb
     \endentry
     \entry{Chen_2024_jas}{article}{}{}
@@ -221,7 +375,7 @@
       \strng{authornamehash}{a822c2d70cc6798576fab772c4e95ebc}
       \strng{authorfullhash}{51d8a1c2276c17d035e903e45785f010}
       \strng{authorfullhashraw}{51d8a1c2276c17d035e903e45785f010}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}

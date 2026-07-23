@@ -13,13 +13,20 @@
 
 
 % Default biblatex style used for the publication list is APA6. If you wish to use a different style or pass other options to biblatex you can change them here. 
-\PassOptionsToPackage{style=ieee,sorting=ydnt,uniquename=init,defernumbers=true}{biblatex}
+\PassOptionsToPackage{style=ieee,sorting=ymdnt,uniquename=init,defernumbers=true,maxbibnames=8,minbibnames=3}{biblatex}
 
 % Most commands and style definitions are in settings.sty.
 \usepackage{settings}
+\DeclareSortingTemplate{ymdnt}{
+  \sort{\field{presort}}
+  \sort[final]{\field{sortkey}}
+  \sort[direction=descending]{\field{sortyear}\field{year}}
+  \sort[direction=descending]{\field{month}}
+  \sort[direction=descending]{\field{day}}
+  \sort{\field{sorttitle}\field{title}}
+  \sort{\field{volume}\literal{0}}
+}
 % \usepackage[backend=biber]{biblatex}
-\addbibresource{own-bib.bib}
-
 % If you need to further customise your biblatex setup e.g. with \DeclareFieldFormat etc please add them here AFTER loading settings.sty. For example, to remove the default "[Online] Available:" prefix before URLs when using the IEEE style:
 \DefineBibliographyStrings{english}{url={\textsc{url}}}
 
@@ -31,10 +38,7 @@
 % \mynames{Lim/Lian\bibnamedelima Tze}
 
 %% You can specify multiple names like this, especially if you have changed your name or if you need to highlight multiple authors. See items 6–9 in the example "Journal Articles" output.
-\mynames{Lim/Lian\bibnamedelima Tze,
-  Wong/Lian\bibnamedelima Tze,
-  Lim/Tracy,
-  Lim/L.\bibnamedelimi T.}
+\mynames{Chen/Zirui}
 %% MAKE SURE THERE IS NO SPACE AFTER THE FINAL NAME IN YOUR \mynames LIST
 
 % Change the fonts if you want
@@ -70,9 +74,9 @@
 
 
 \leftheader{%
-  {\LARGE\bfseries\sffamily Zirui Chen, Ph.D. Student}
+  {\LARGE\bfseries\sffamily Zirui Chen, Ph.D. Candidate}
 
-  \makefield{\faEnvelope[regular]}{\href{mailto:example@gmail.com}{\texttt{chenzirui@westlake.edu.cn}}}
+  \makefield{\faEnvelope[regular]}{\href{mailto:chenzirui@westlake.edu.cn}{\texttt{chenzirui@westlake.edu.cn}}}
   % fontawesome5 doesn't have the X icon so we use
   % the simpleicons package here instead; but some 
   % font size adjustment might be needed
@@ -82,6 +86,7 @@
 
   %% Next line
   \makefield{\faGlobe}{\url{https://czr-gif.github.io/}}
+  \makefield{\faGraduationCap}{\href{https://scholar.google.com/citations?user=ccn1aWQAAAAJ}{Google Scholar}}
   % You can use a tabular here if you want to line up the fields.
 }
 
